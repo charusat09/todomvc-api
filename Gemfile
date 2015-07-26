@@ -10,6 +10,12 @@ gem 'spring', :group => :development
 
 gem 'sqlite3'
 
+gem 'mongoid'
+gem 'bson_ext'
+
+gem 'tzinfo-data'
+gem 'tzinfo'
+
 gem 'faker'
 
 gem 'active_model_serializers', '~> 0.8.1'
