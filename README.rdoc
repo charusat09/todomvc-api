@@ -2,8 +2,6 @@
 
 I have forked the existing project at https://github.com/ryanlabouve/todomvc-api and make it competible with mongoDB.
 
-Things you may want to cover:
-
 * Ruby version : 1.9.3
 
 * System dependencies : MongoDB 
@@ -14,4 +12,3 @@ Things you may want to cover:
 
 * How to run the test suite : Till I have not included any tests but if someone can include it then it will be helpful to others
 
-<tt>rake doc:app</tt>.
